@@ -1,0 +1,14 @@
+{
+    "name": "ekolustudio/crud-it",
+    "description": "Simple CRUD generator for Laravel framework bwith json files",
+    "type": "laravel-package",
+    "license": "CC Non Comercial",
+    "authors": [
+        {
+            "name": "Ekolu Studio",
+            "email": "ekolustudio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
