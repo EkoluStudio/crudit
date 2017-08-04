@@ -8,7 +8,7 @@ use App\Http\Controllers\Controller;
 
 class CruditController extends Controller
 {
-    public test(){
+    public function test(){
         echo 'testeo a ver si funciona';
     }
 }
